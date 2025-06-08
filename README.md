@@ -2,12 +2,7 @@
   <image src="https://raw.githubusercontent.com/dotnet/orleans/gh-pages/assets/logo_full.png" alt="Orleans logo" width="600px">
 </p>
 
-[![NuGet](https://img.shields.io/nuget/v/Microsoft.Orleans.Core.svg?style=flat)](http://www.nuget.org/profiles/Orleans)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/msftorleans.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=msftorleans)
-
-[![Discord](https://discordapp.com/api/guilds/333727978460676096/widget.png?style=banner2)](https://aka.ms/orleans-discord)
-
-### Orleans is a cross-platform framework for building robust, scalable distributed applications
+### Orleans는 견고하고 확장 가능한 분산 애플리케이션을 구축하기 위한 크로스 플랫폼 프레임워크입니다
 
 Orleans builds on the developer productivity of .NET and brings it to the world of distributed applications, such as cloud services. Orleans scales from a single on-premises server to globally distributed, highly-available applications in the cloud.
 
