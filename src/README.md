@@ -1,5 +1,14 @@
 # Orleans 소스 코드 분석
 
+### Grain.cs
+
+IGrainBase, IAddressable 인터페이스를 상속받아서 Grain 클래스를 선언.  
+Grain<TGrainState> 는 Grain을 상속 받아서 구현함.
+
+[Grain.cs 코드 위치](src/Orleans.Core.Abstractions/Core/Grain.cs)
+
+<br/>
+
 | 이름 | 목적 | 설명 |
 |---|---|---|
 |AWS|||
