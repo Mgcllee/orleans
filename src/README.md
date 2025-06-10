@@ -5,7 +5,7 @@
 IGrainBase, IAddressable 인터페이스를 상속받아서 Grain 클래스를 선언.  
 Grain<TGrainState> 는 Grain을 상속 받아서 구현함.
 
-[Grain.cs 코드 위치](src/Orleans.Core.Abstractions/Core/Grain.cs)
+[Grain.cs 코드 위치](Orleans.Core.Abstractions/Core/Grain.cs)
 
 <br/>
 
