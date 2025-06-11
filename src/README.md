@@ -9,6 +9,12 @@ Grain<TGrainState> 는 Grain을 상속 받아서 구현함.
 
 <br/>
 
+### Silo.cs
+
+[Silo.cs 코드 위치](Orleans.Runtime/Silo/Silo.cs)
+
+<br/>
+
 | 이름 | 목적 | 설명 |
 |---|---|---|
 |AWS|||
